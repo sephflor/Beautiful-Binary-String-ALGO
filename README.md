@@ -1,1 +1,1 @@
-# Beautiful-Binary-String-ALGO
+# Beautiful-Binary-String-ALGO.This implementation counts the minimum number of changes needed to eliminate all occurrences of the substring "010" by scanning through the binary string and incrementing the count each time "010" is found, then skipping ahead to avoid overlapping patterns, efficiently solving the problem in O(n) time complexity.
